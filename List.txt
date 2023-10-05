@@ -1,0 +1,5 @@
+how could fitting a line to data go wrong?
+- anomalies and outliers
+- human enrror
+- unstable connection
+- etc
