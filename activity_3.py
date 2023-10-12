@@ -9,6 +9,3 @@ plt.scatter(x_axis, y_axis)
 plt.xlabel("X-Axis")
 plt.ylabel("Y-Axis")
 plt.show()
-
-#find correlation coefficient
-# unit testing after (separate file)
