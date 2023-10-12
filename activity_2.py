@@ -1,7 +1,9 @@
 import unittest
 
-def add_numbers(a,b):
-    return a + b
+#def add_numbers(a,b):
+#    return a + b
+
+from test_suite import add_numbers
 
 class TestFunction(unittest.TestCase):
 
